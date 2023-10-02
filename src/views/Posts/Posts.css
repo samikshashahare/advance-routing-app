@@ -1,0 +1,10 @@
+.post-container{
+    display:flex;
+    flex-direction: column;
+}
+
+.heading-posts{
+    margin-left: auto;
+    margin-right: auto;
+    color: darkmagenta;
+}

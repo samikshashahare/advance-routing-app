@@ -1,0 +1,25 @@
+
+.cards-container {
+    display: flex;
+    flex-direction: column;
+    margin: 15px;
+    align-items: center;
+}
+
+.bolgcards {
+    /* border: 1px solid black; */
+    box-shadow: 1px 2px 3px 2px rgb(67, 65, 65);
+    border-radius: 10px;
+    width: 30vw;
+    background-image: linear-gradient(rgb(150, 156, 224),rgb(200, 168, 233));
+    padding: 20px;
+}
+
+.btn {
+    background: rgb(68, 12, 99);
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+    margin-left: 37%;
+    text-decoration: none;
+}
